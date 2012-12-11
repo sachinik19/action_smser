@@ -1,3 +1,4 @@
+require 'active_record'
 module ActionSmser
   class DeliveryReport < ActiveRecord::Base
 
